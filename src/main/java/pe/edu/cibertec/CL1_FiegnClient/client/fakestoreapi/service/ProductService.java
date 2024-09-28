@@ -1,4 +1,4 @@
-package pe.edu.cibertec.CL1_FiegnClient.service;
+package pe.edu.cibertec.CL1_FiegnClient.client.fakestoreapi.service;
 
 
 import lombok.RequiredArgsConstructor;
